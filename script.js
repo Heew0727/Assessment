@@ -1,4 +1,3 @@
-// Parse Table 1 and build a dictionary of index-value pairs
 const table1Rows = document.querySelectorAll('#table1 tr');
 const dataMap = {};
 
